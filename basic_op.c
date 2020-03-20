@@ -1,3 +1,4 @@
-void add_16_16_16(vout,vin1,vin2)
+void add_16_16_16(Word16 vout,Word16 vin1,Word16 vin2)
 {
+
 }
